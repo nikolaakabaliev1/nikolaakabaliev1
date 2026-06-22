@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
 <h3 align="center">A passionate 19-year old Wordpress and Front End Developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **Javascript and Node JS**
-
-- 🤝 I’m looking for help with **Wordpress and Front End automation**
-
 - 📫 How to reach me **nikolaakabaliev1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
