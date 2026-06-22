@@ -1,10 +1,10 @@
 <h1 align="center">Nice to meet you, I'm Nikola</h1>
-<h3 align="center">A passionate 19-year old Wordpress and Front End Developer from Bulgaria</h3>
+<h2 align="center">A passionate 19-year old Wordpress and Front End Developer from Bulgaria</h2>
 
 <img src="cover-linkedin.jpg" alt="Github Cover" width="100%">
 
 
-When not involved in working, I am enjoying playing billiards, going gym and go for a walk somewhere with friends.
+<h3 align = "center">When not involved in working, I am enjoying playing billiards, going gym and go for a walk somewhere with friends.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
