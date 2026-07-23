@@ -3,7 +3,7 @@
 
 <img src="cover-linkedin.jpg" alt="Github Cover" width="100%">
 
-- 📫 How to reach me **nikolaakabaliev1@gmail.com**
+- In my free time I am going to the gym or playing billiards with friends
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
