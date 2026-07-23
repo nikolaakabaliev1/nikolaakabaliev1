@@ -4,7 +4,7 @@
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/80657f78-da68-4b81-9b4f-439cb8c175f8" />
 
 
-<h3 align="center">In my free time I go to the gym and play billiards with friends</h3>
+<h3 align="center">In my free time I go to the gym or play billiards with friends</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
