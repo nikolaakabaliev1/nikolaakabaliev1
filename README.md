@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
 <h3 align="center">A passionate 19-year old Web Developer from Bulgaria</h3>
 
-<img src="cover-linkedin.jpg" alt="Github Cover" width="100%">
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/80657f78-da68-4b81-9b4f-439cb8c175f8" />
+
+
 
 - In my free time I am going to the gym or playing billiards with friends
 
